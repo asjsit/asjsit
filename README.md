@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Anton</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asjsit) [![Telegram](https://img.shields.io/badge/Telegram-%234361EE.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/asjsit)
+
 <p>Skills:</p>
 
 
