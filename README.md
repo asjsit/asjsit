@@ -5,7 +5,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asjsit) [![Telegram](https://img.shields.io/badge/Telegram-%234361EE.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/asjsit)
 
-<p>Skills:</p>
+# 💻 Tech Stack:
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
