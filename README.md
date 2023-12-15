@@ -16,3 +16,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=asjsit&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=asjsit&theme=material-palenight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asjsit&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
